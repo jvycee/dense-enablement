@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://www.jaycees.blog"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
